@@ -32,4 +32,3 @@ with dag:
     )
 
     run_script_task >> start_pipeline
-test
